@@ -1,2 +1,3 @@
-console.log(2);
-console.log("add auth");
+console.log(2)
+console.log('add auth')
+console.log('xyi')
